@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "rss": "#",
+  "discord": {
+    "clientId": "922508575966908436",
+    "smallImageText": "Galaxy Client - A Minecraft Client.",
+    "smallImageKey": "You are just a few clicks away from the Galaxy!"
+  },
+}
