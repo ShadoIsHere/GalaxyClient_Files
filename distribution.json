@@ -1,9 +1,32 @@
+```json
 {
-  "version": "1.0.0",
-  "rss": "#",
-  "discord": {
-    "clientId": "922508575966908436",
-    "smallImageText": "Galaxy Client - A Minecraft Client.",
-    "smallImageKey": "You are just a few clicks away from the Galaxy!"
-  },
+    "version": "1.0.1",
+    "discord": {
+        "clientId": "922508575966908436",
+        "smallImageText": "GalaxyClient",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "Galaxy_Client",
+            "name": "Galaxy Client",
+            "description": "You are just a few clicks away from the Galaxy!",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/example_icon.png",
+            "version": "1.0.1",
+            "address": "play.lunagames.eu",
+            "minecraftVersion": "1.12.2",
+            "discord": {
+                "shortId": "922508575966908436",
+                "largeImageText": "Galaxy Client",
+                "largeImageKey": "server-example"
+            },
+            "mainServer": true,
+            "autoconnect": false,
+            "modules": [
+                "Module Objects Here"
+            ]
+        }
+    ]
 }
+```
