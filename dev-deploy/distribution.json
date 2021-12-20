@@ -1,0 +1,10 @@
+{
+    "version": "1.0.2",
+    "discord": {
+        "clientId": "922508575966908436",
+        "smallImageText": "GalaxyClient",
+        "smallImageKey": "seal-circle"
+    },
+    "rss": "#",
+    "servers": []
+}
